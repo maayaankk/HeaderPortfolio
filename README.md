@@ -10,4 +10,4 @@ https://website-ed8ca.web.app/
 3. Bootstrap5 for all the stylings and responsive view
 
 ## Hosting of this website
-Here we have used firebase for hositing the website
+Here we have used firebase for hositing the website. Here we have use firebase for just hosting purpose no database is been connected to the website
