@@ -8,3 +8,6 @@ https://website-ed8ca.web.app/
 1. HTML5 (Pure HTML) <br>
 2. CSS3 (For media queries) <br>
 3. Bootstrap5 for all the stylings and responsive view
+
+## Hosting of this website
+Here we have used firebase for hositing the website
