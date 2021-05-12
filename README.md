@@ -1,5 +1,6 @@
 ## HeaderPortfolio
-Basic Website made using HTML5 and Bootstrap5
+Basic Website made using HTML5 and Bootstrap5 <br>
+index.html is the starting point of the website.
 
 ## Link to the project
 https://website-ed8ca.web.app/
